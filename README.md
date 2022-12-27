@@ -7,7 +7,7 @@ Full-Stack Developer
 I am learning code for 3 years, after switching careers. I started with Kotlin but have really found a passion for Web and Mobile Development with ReactNative.
 
 * 🌍  I'm based in Irvine
-* 🖥️  See my portfolio at [My Portfolio(Currently Unavailable)](http://portfolio-sean-jin.herokuapp.com/)
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio-sean-jin.herokuapp.com/)
 * ✉️  You can contact me at [yonghyun.jin13@gmail.com](mailto:yonghyun.jin13@gmail.com)
 * 🚀  I'm currently working on [Walletgyde Finanacial Coaching Program](http://walletgyde.com/)
 * 🧠  I'm learning ReactNative
