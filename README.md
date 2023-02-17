@@ -4,7 +4,7 @@ Hi 👋 My name is Yonghyun(Sean) Jin
 Full-Stack Developer
 --------------------
 
-I am learning code for 3 years, after switching careers. I started with Kotlin but have really found a passion for Web and Mobile Development with ReactNative.
+I am learning code for 3 years, after switching careers. I started with Kotlin android but have really found a passion for Web, Mobile Development and backend Database.
 
 * 🌍  I'm based in Irvine
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-sean-jin.herokuapp.com/)
