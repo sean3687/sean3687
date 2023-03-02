@@ -10,7 +10,7 @@ I am learning code for 3 years, after switching careers. I started with Kotlin a
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-sean-jin.herokuapp.com/)
 * ✉️  You can contact me at [yonghyun.jin13@gmail.com](mailto:yonghyun.jin13@gmail.com)
 * 🚀  I'm currently working on [Walletgyde Finanacial Coaching Program](http://walletgyde.com/)
-* 🧠  I'm learning ReactNative
+* 🧠  I'm learning Docker
 * 🤝  I'm open to collaborating on Any Interesting projects
 * ⚡  Class of UCI 2023
 
